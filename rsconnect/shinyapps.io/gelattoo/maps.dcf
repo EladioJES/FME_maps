@@ -1,0 +1,10 @@
+name: maps
+title:
+username:
+account: gelattoo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3421920
+bundleId: 4014499
+url: https://gelattoo.shinyapps.io/maps/
+when: 1608543944.50396
